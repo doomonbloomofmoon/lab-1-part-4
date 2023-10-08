@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            var p = new Par_4();
+            p.Start();
         }
     }
 }
